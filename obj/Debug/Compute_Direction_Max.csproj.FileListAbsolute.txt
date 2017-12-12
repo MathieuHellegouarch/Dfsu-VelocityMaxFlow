@@ -1,0 +1,9 @@
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\bin\Debug\Compute_Direction_Max.exe.config
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\bin\Debug\Compute_Direction_Max.exe
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\bin\Debug\Compute_Direction_Max.pdb
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\obj\Debug\Compute_Direction_Max.csprojResolveAssemblyReference.cache
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\obj\Debug\Compute_Direction_Max.Form1.resources
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\obj\Debug\Compute_Direction_Max.Properties.Resources.resources
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\obj\Debug\Compute_Direction_Max.csproj.GenerateResource.Cache
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\obj\Debug\Compute_Direction_Max.exe
+C:\Data\MJH\Technique\CSharp_projects\Compute_direction_Max\Compute_Direction_Max\obj\Debug\Compute_Direction_Max.pdb
